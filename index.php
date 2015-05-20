@@ -67,7 +67,7 @@
                         </div>
                     </div>
                 </a>
-                <a href="http://portal.weloveshopping.in/style-passion-zone" target="_blank">
+                <a href="http://portal.weloveshopping.com/style-passion-zone" target="_blank">
                     <div class="boxItem" style="margin-left: 7px;">
                         <img src="./images/desktop/banner/welove1_15.jpg"/>
                     </div>
