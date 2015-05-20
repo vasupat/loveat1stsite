@@ -28,12 +28,18 @@
                     <div class="col-sm-8 col-md-8 col-xs-8">
                         <img src="./images/desktop/sign-banner.jpg" class="img-responsive"/>
                     </div>
-                    <div class="col-xs-4 col-md-4 col-sm-4 centricText">
+                    
+                </div>
+            </div>
+
+            <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 image_bg">
+<div class="col-xs-4 col-md-4 col-sm-4 centricText">
                         <a href="https://www.facebook.com/events/833690193346943/" class="btn btn-success btn-signfb" target="_blank" >ลงทะเบียนด้วย Facebook</a>
                        
                     </div>
-                </div>
-            </div>
+                    </div>
+             </div>
             
             <div id="plainBanner" class="row">
                 <div class="boxItem">
