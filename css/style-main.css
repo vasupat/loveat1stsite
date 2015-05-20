@@ -132,7 +132,6 @@ h5.headTitle {
 }
 
 @media ( max-width : @screen-xs-max) {
-	...
 }
 
 @media ( min-width : @screen-sm-min) and (max-width: @screen-sm-max) {
@@ -148,4 +147,15 @@ h5.headTitle {
 	.searchbar {
 		margin-top: 20px;
 	}
+}
+@media (max-width: 736px){
+	.image_bg {
+		width: 100%;
+		min-height: 100px;
+		background: transparent;
+		margin:20px 0;
+	}
+	.image_bg .col-xs-8{width:100%;}
+	.image_bg img{width:100%;}
+
 }
