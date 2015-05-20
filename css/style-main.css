@@ -1,0 +1,151 @@
+@CHARSET "UTF-8";
+
+body {
+	font-family: "db_helvethaicamon_x55_regular";
+}
+
+.btn-danger {
+	border-color: #C5C5C6;
+	filter: none;
+	background-image: none;
+	background-color: #e2144c !important;
+}
+
+.header {
+	margin: 20px;
+}
+
+.logo {
+	height: 50px;
+	width: auto;
+}
+
+.no-padding {
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+.image_bg {
+	width: 100%;
+	min-height: 244px;
+	background: #ededed;
+}
+
+.menu-content {
+	height: 272px;
+	bakcground-color: #FFF;
+}
+
+.btn-signfb, .btn-signfb:visited {
+	background: none;
+	background-color: #028098;
+	height: 59px;
+	border-radius: 0px;
+	font-size: 2em;
+	line-height: 48px;
+	padding-left: 40px;
+	padding-right: 40px;
+	margin:30px auto 55px;
+}
+
+.btn-signfb:hover, .btn-signfb:active {
+	background-color: #1187a6;
+}
+
+h5.headTitle {
+	font-size: 1.4em;
+}
+
+.centricText {
+	text-align: center;
+}
+
+#plainBanner{
+	line-height:270px;
+	background-color:#FFF;
+}
+
+.boxItem{
+	display:inline-block;
+	position:relative;
+	margin:5px 2px;
+}
+
+.forgroundFlag{
+	position: absolute;
+  	bottom: 13px;
+  	left: 0px;
+  	width: 100%;
+}
+
+.flag span{
+	font-family: "db_helvethaicamon_x58_condit";
+	font-size:3em;
+	color:#FFF;
+	position:absolute;
+	bottom: 8px;
+  	right: 15px;
+  	line-height: 1.5em;
+  	font-weight:lighter;
+}
+
+#whatsgoingon{
+	background-color:#d8d8d8;
+	min-height:360px;
+}
+
+
+.feedBox{
+	background-color:#1f2629;
+	padding:12px;
+	color:#babab7;
+	margin:10px 7px;
+	width:175px;
+}
+
+.feedBox .bottom-panel{
+	display: block;
+  color: #d8d8d8;
+  text-align: right;
+  margin-top: 10px;
+  font-size: 1.3em;
+  line-height: 20px;
+  vertical-align: baseline;
+}
+
+.feedBox a{
+	text-decoration:none;
+}
+
+.feedBox a:hover,.feedBox a:active{
+	color: #ececec;
+}
+
+.feedBox .bottom-panel img{
+	display:inline-block;
+	margin:0px 5px;
+}
+
+.feedBox h5{
+	color:#d8d8d8;
+	font-size:1.5em;
+}
+
+@media ( max-width : @screen-xs-max) {
+	...
+}
+
+@media ( min-width : @screen-sm-min) and (max-width: @screen-sm-max) {
+}
+
+@media ( min-width : @screen-md-min) and (max-width: @screen-md-max) {
+	.searchbar {
+		margin-top: 20px;
+	}
+}
+
+@media ( min-width : @screen-lg-min) {
+	.searchbar {
+		margin-top: 20px;
+	}
+}
