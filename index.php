@@ -29,17 +29,15 @@
                         <img src="./images/desktop/sign-banner.jpg" class="img-responsive"/>
                     </div>
                     <div class="col-xs-4 col-md-4 col-sm-4 centricText">
-                        <a href="#" class="btn btn-success btn-signfb" >ลงทะเบียนด้วย Facebook</a>
-                        <div class="whoslogin">
-                            <h5 class="headTitle">เพื่อนๆของคุณที่ได้ลงทะเบียนร่วมงานแล้ว</h5>
-                        </div>
+                        <a href="https://www.facebook.com/events/833690193346943/" class="btn btn-success btn-signfb" target="_blank" >ลงทะเบียนด้วย Facebook</a>
+                       
                     </div>
                 </div>
             </div>
             
             <div id="plainBanner" class="row">
                 <div class="boxItem">
-                    <a href="#"><img src="./images/desktop/banner/about.jpg"/></a>
+                    <a href="http://blog.weloveshopping.com/love-at-first-site/" target="_blank"><img src="./images/desktop/banner/about.jpg"/></a>
                     <div class="flag">
                         <img src="./images/pink1.png" class="forgroundFlag">
                         <span>About</span>
@@ -47,7 +45,7 @@
                 </div>
                 <a href="#">
                 <div class="boxItem">
-                    <a href="#"><img src="./images/desktop/banner/celeb.jpg"/></a>
+                    <img src="./images/desktop/banner/celeb.jpg"/>
                     <div class="flag">
                         <img src="./images/pink1.png" class="forgroundFlag">
                         <span>Celeb</span>
@@ -56,14 +54,14 @@
                 </a>
                 <a href="event.php">
                     <div class="boxItem">
-                        <a href="#"><img src="./images/desktop/banner/event.jpg"/></a>
+                        <a href="https://www.facebook.com/events/833690193346943/" target="_blank"><img src="./images/desktop/banner/event.jpg"/></a>
                         <div class="flag">
                             <img src="./images/pink1.png" class="forgroundFlag">
                             <span>Event</span>
                         </div>
                     </div>
                 </a>
-                <a href="#">
+                <a href="http://portal.weloveshopping.in/style-passion-zone" target="_blank">
                     <div class="boxItem" style="margin-left: 7px;">
                         <img src="./images/desktop/banner/welove1_15.jpg"/>
                     </div>
