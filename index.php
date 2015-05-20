@@ -17,29 +17,6 @@
   </head>
   <body>
     <div class="container">
-        <section class="header">
-            <div class="col-xs-12">
-                <form action="" method="post" class="form-">
-                    <div class="row">
-                         <div class="col-lg-3" style="margin-top:-10px"><a href="#"><img src="./images/desktop/WLS-logo.png" alt="" class="logo"></a></div>
-                          <div class="col-lg-8 searchbar">
-                            <div class="input-group">
-                                <div class="input-group-btn">
-                                    <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">สินค้า <span class="caret"></span></button>
-                                    <ul class="dropdown-menu" role="menu">
-                                      <li><a href="#"></a></li>
-                                    </ul>
-                                  </div><!-- /btn-group -->
-                              <input type="text" class="form-control" placeholder="ค้นหาสินค้าที่คุณต้องการ">
-                              <span class="input-group-btn">
-                                <button class="btn btn-danger" type="button"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
-                              </span>
-                            </div><!-- /input-group -->
-                          </div><!-- /.col-lg-8 -->
-                    </div><!-- /.row -->
-                </form>
-            </div>
-        </section><!-- / End of section header -->
         <section class="main">
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-xs-12 no-padding">
