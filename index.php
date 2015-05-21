@@ -36,9 +36,10 @@
             <div class="row">
 
 <div class="col-sm-8 col-md-8 col-xs-8">
-                        <a href="https://www.facebook.com/events/833690193346943/" class="btn btn-success btn-signfb" target="_blank" >ลงทะเบียนด้วย Facebook</a>
-
-
+                        <!-- <a href="https://www.facebook.com/events/833690193346943/" class="btn btn-success btn-signfb" target="_blank" >ลงทะเบียนด้วย Facebook</a> -->
+                        <a href="https://www.facebook.com/events/833690193346943/"  target="_blank" >
+                            <img src="./images/desktop/RegisterSizeB.jpg" class="img-responsive"/>
+                        </a>
                     </div>
              </div>
 
