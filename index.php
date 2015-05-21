@@ -7,7 +7,7 @@
     <title></title>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
-    
+
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
@@ -28,19 +28,20 @@
                     <div class="col-sm-8 col-md-8 col-xs-8">
                         <img src="./images/desktop/sign-banner.jpg" class="img-responsive"/>
                     </div>
-                    
+
                 </div>
             </div>
 
+
             <div class="row">
-           
+
 <div class="col-sm-8 col-md-8 col-xs-8">
                         <a href="https://www.facebook.com/events/833690193346943/" class="btn btn-success btn-signfb" target="_blank" >ลงทะเบียนด้วย Facebook</a>
-                       
-                    
+
+
                     </div>
              </div>
-            
+
             <div id="plainBanner" class="row">
                 <div class="boxItem">
                     <a href="http://blog.weloveshopping.com/love-at-first-site/" target="_blank"><img src="./images/desktop/banner/about.jpg"/></a>
@@ -78,16 +79,16 @@
                     <div class="col-sm-2">
                         <img src="./images/desktop/What-going-on.png"/>
                     </div>
-                    
+
                     <div class="col-sm-2 pull-right"><img src="./images/desktop/LIVE_22.jpg" style="float:right;margin-right:-8px;"></div>
                 </div>
                 <div id="instragram" class="clearfix col-sm-offset-1 col-sm-10 col-md-10 col-xs-10">
-                        
+
                 </div>
             </div>
         </section><!-- / End of section main -->
         <section class="footer">
-        
+
         </section><!-- / End of section footer -->
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
