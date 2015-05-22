@@ -99,9 +99,9 @@
         var feed = new Instafeed({
             target : "instragram",
             get: 'tagged',
-            tagName: 'weloveshopping',
+            tagName: 'LoveAt1stSite',
             clientId: '28380b49945e4f768775c4052b690db8',
-            template: '<div class="feedBox col-sm-2 col-xs-2"><a target="_blank" href="{{link}}"><h5>#weloveshopping</h5><img src="{{image}}" /><div class="bottom-panel"><img src="./images/desktop/heart.png">{{likes}} <img src="./images/desktop/chat.png">{{comments}}</div></a></div>',
+            template: '<div class="feedBox col-sm-2 col-xs-2"><a target="_blank" href="{{link}}"><h5>#LoveAt1stSite</h5><img src="{{image}}" /><div class="bottom-panel"><img src="./images/desktop/heart.png">{{likes}} <img src="./images/desktop/chat.png">{{comments}}</div></a></div>',
             resolution: 'thumbnail',
             limit: 5,
         });
